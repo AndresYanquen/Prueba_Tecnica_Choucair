@@ -1,0 +1,8 @@
+co/com/choucair/certification/pruebatecnica/academy/userinterface/UTestPage.java
+ co.com.choucair.certification.pruebatecnica.academy.userinterface.UTestPage
+co/com/choucair/certification/pruebatecnica/academy/tasks/OpenUp.java
+ co.com.choucair.certification.pruebatecnica.academy.tasks.OpenUp
+co/com/choucair/certification/pruebatecnica/academy/userinterface/CompleteData.java
+ co.com.choucair.certification.pruebatecnica.academy.userinterface.CompleteData
+co/com/choucair/certification/pruebatecnica/academy/tasks/Login.java
+ co.com.choucair.certification.pruebatecnica.academy.tasks.Login
